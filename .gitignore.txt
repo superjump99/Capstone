@@ -1,5 +1,0 @@
-*.hwp
-
-*.docx
-
-*.pptx
